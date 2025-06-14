@@ -1,6 +1,6 @@
 This conversation is comparing two major blockchain networks, Bitcoin and Ethereum, particularly focusing on their upgrade capabilities and design philosophies. Let's break down the terms and concepts mentioned.
 
-[conversation](https://github.com/djmahe4/web3-learnings/blob/main/Screenshot_2024-10-31-22-28-55-23_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
+![conversation](https://github.com/djmahe4/web3-learnings/blob/main/Screenshot_2024-10-31-22-28-55-23_6012fa4d4ddec268fc5c7112cbb265e7.jpg)
 ---
 
 1. Bitcoin and Its Design Philosophy
