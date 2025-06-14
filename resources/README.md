@@ -8,3 +8,6 @@
 - [Internships](https://web3.career/intern-jobs)
 # Github
 - [Study materials+Roadmap](https://github.com/Anugrahsr/Awesome-web3-Security)
+# Communities
+-[IEEE Kerala Blockchain Group](https://bit.ly/blockchain_kerala)
+-[Web3 Kerala](https://web3kerala.com/)
