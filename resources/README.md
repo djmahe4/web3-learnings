@@ -1,5 +1,5 @@
 - [Pentesting](https://github.com/djmahe4/web3-learnings/blob/main/resources/Screenshot_20250714-205350.png)
---
+---
 # Events
 - [Web3 events/hackathons](https://www.encode.club/programmes)
 # Projects
